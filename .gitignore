@@ -1,0 +1,10 @@
+node_modules
+dist
+static/sw.js
+yarn-error.log
+debug.log
+report.*
+sw.*
+.nuxt
+.env
+*.code-workspace
