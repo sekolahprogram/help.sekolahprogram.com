@@ -1,6 +1,6 @@
 export default {
 
-    mode: 'static',
+    target: 'static',
 
     head: {
         title: process.env.APP_NAME,
